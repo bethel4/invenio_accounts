@@ -1,0 +1,3 @@
+[cli]
+services_setup = False
+
